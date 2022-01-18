@@ -1,0 +1,1 @@
+the data in the excel file is extracted from : https://www.gartner.com/reviews/market/analytics-business-intelligence-platforms/compare/alteryx-vs-microsoft-vs-sas
